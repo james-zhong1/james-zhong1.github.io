@@ -34,9 +34,7 @@ I am also dedicated to teaching and mentoring the next generation of students an
 
 ### **Machine Learning Algorithms**
 - Designing **efficient, interpretable, and scalable machine learning models** that bridge the gap between theoretical rigor and computational feasibility.
-- Innovating in areas like **unsupervised learning**, with applications in clustering, anomaly detection, and dimensionality reduction.
 - Investigating **fair and ethical AI systems**, ensuring algorithmic decisions are transparent, unbiased, and reliable.
-- Applying deep learning to specialized problems in **natural language processing** and **computer vision**, such as extracting meaning from unstructured text or identifying patterns in visual data.
 
 ### **Applied Mathematics**
 - Solving real-world problems through **optimization techniques**, particularly in operations research, transportation networks, and supply chain management.
